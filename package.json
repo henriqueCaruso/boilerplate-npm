@@ -12,5 +12,9 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"author": "Henrique Caruso",
-	"description": "A project that does something awesome"
+	"description": "A project that does something awesome",
+	"keywords": [
+		"freecodecamp",
+		"Learning Node!"
+	]
 }
