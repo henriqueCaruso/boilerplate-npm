@@ -11,5 +11,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "Henrique Caruso"
+	"author": "Henrique Caruso",
+	"description": "A project that does something awesome"
 }
